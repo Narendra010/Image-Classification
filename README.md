@@ -1,5 +1,5 @@
 # Image-Classification
-A machine that first takes input images of different categories from user via capturing through camera and then after applying machine learning, it classifies a new object displayed on camera to the category it belongs to.
+A machine that first takes input images of different categories from user via capturing through camera, makes a database for learning through this data and then after applying machine learning, it classifies a new object displayed on camera to the category it belongs to.
 
 ### app.py
 This is the python code where I have created the GUI
